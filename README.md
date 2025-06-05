@@ -22,4 +22,4 @@ A Flutter-based mobile application developed during my internship at Sisia Solut
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/expense_manager.git
+   git clone https://github.com/Aroba-Dar/expense_manager_app.git
