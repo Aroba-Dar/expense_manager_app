@@ -10,10 +10,6 @@ A Flutter-based mobile application developed during my internship at Sisia Solut
 - State management with the `Provider` package for smooth UI updates  
 - Manage categories and tags within the app  
 
-## Screenshots
-
-*(Add screenshots here to showcase your app UI)*
-
 ## Getting Started
 
 ### Prerequisites
