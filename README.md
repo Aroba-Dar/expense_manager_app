@@ -1,16 +1,29 @@
-# expense_manager
+# Expense Manager App
 
-A new Flutter project.
+A Flutter-based mobile application developed during my internship at Sisia Solutions to help users track their daily expenses easily and efficiently.
+
+## Features
+
+- Add, view, and delete expenses  
+- Group expenses by categories and tags  
+- Offline data persistence using the `localstorage` package  
+- State management with the `Provider` package for smooth UI updates  
+- Manage categories and tags within the app  
+
+## Screenshots
+
+*(Add screenshots here to showcase your app UI)*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed (version 3.0.0 or higher recommended)  
+- Dart SDK  
+- A device or emulator to run the app  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/<your-username>/expense_manager.git
